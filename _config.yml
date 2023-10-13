@@ -83,11 +83,11 @@ author:
   name             : "Le Chen"
   avatar           : "profile.png"
   bio              : "Computer Science & Biology Undergrad @ McGill"
-  location         : "Location"
+  location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "le.chen@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lechen03"
   google_plus      :
   keybase          :
   instagram        :
